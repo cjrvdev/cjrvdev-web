@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.cjrvdev.androidapplinktestsuite",
+    "sha256_cert_fingerprints":
+    ["47:C5:0D:8E:E2:F0:85:70:BC:7E:06:E9:E8:5B:69:66:E0:C0:07:9D:F6:BA:8C:4D:E4:8F:87:BE:E3:26:40:EF"]
+  }
+}]
