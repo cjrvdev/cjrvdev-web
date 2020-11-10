@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "EP7232D6DP.es.ibercaja.ibercajaapp",
+        "paths": [ "particulares/banca-digital/servicios/app-ibercaja/" ]
+      },
+      {
+         "appID": "EP7232D6DP.es.ibercaja.ibercajaapp.v2.piloto",
+         "paths": [ "*" ]
+      }
+    ]
+  }
+}
